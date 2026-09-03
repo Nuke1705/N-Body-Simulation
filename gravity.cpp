@@ -15,7 +15,7 @@
 #include "res\imgui\imgui_impl_glfw.h"
 #include "res\imgui\imgui_impl_opengl3.h"
 
-#include "Simulation2\simulation.h"
+#include "Simulation\simulation.h"
 
 #include <iostream>
 #include <string>
